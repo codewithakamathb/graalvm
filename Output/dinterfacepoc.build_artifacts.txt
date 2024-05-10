@@ -1,0 +1,16 @@
+[SHARED_LIB]
+dinterfacepoc.dll
+
+[JDK_LIB]
+jsound.dll
+sunmscapi.dll
+
+[HEADER]
+dinterfacepoc.h
+graal_isolate.h
+dinterfacepoc_dynamic.h
+graal_isolate_dynamic.h
+
+[IMPORT_LIB]
+dinterfacepoc.lib
+
